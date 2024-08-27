@@ -1,8 +1,8 @@
 import twilio from 'twilio';
 
 // Twilio credentials
-const accountSid = 'ACb82d6d672cc8ca8bf9f4823dd7586ad2';  // Replace with your actual account SID
-const authToken = '01db3f7a290a988767f974b2eead1749';    // Replace with your actual auth token
+// const accountSid = 'ACb82d6d672cc8ca8bf9f4823dd7586ad2';  // Replace with your actual account SID
+// const authToken = '01db3f7a290a988767f974b2eead1749';    // Replace with your actual auth token
 
 const client = twilio(accountSid, authToken);
 
